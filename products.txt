@@ -1,0 +1,30 @@
+101,Smartphone,1,Electronics,100,499.99
+102,Laptop,2,Computers,50,999.99
+103,Bluetooth Speaker,1,Electronics,200,149.99
+104,Wireless Earbuds,1,Electronics,150,79.99
+105,LED TV,1,Electronics,25,1999.99
+106,Desktop,2,Computers,30,1499.99
+107,Printer,2,Computers,20,299.99
+108,Wireless Mouse,2,Computers,100,19.99
+109,Smart Watch,1,Electronics,50,249.99
+110,Headphones,1,Electronics,75,129.99
+111,T-shirt,3,Women's Fashion,200,19.99
+112,Dress,3,Women's Fashion,100,49.99
+113,High Heels,3,Women's Fashion,0,79.99
+114,Handbag,3,Women's Fashion,75,99.99
+115,Jeans,4,Men's Fashion,150,39.99
+116,Dress Shirt,4,Men's Fashion,75,59.99
+117,Tie,4,Men's Fashion,0,19.99
+118,Sneakers,4,Men's Fashion,100,89.99
+119,Watch,4,Men's Fashion,50,199.99
+120,Pots and Pans Set,5,Home and Kitchen,30,299.99
+121,Dinnerware Set,5,Home and Kitchen,40,149.99
+122,Microwave,5,Home and Kitchen,20,199.99
+123,Blender,5,Home and Kitchen,25,99.99
+124,Toaster,5,Home and Kitchen,30,39.99
+125,Vacuum Cleaner,5,Home and Kitchen,0,399.99
+126,Curtains,5,Home and Kitchen,50,29.99
+127,Bed Sheets,5,Home and Kitchen,75,49.99
+128,Towels,5,Home and Kitchen,100,9.99
+129,Coffee Maker,5,Home and Kitchen,20,59.99
+130,Frying Pan,5,Home and Kitchen,40,19.99
